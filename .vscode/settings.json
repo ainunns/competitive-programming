@@ -6,5 +6,6 @@
     "*.sql": "sql",
     "random": "cpp",
     "ostream": "cpp"
-  }
+  },
+  "editor.defaultFormatter": "ms-vscode.cpptools"
 }
