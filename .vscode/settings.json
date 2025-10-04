@@ -5,7 +5,8 @@
     "*.dbclient-js": "javascript",
     "*.sql": "sql",
     "random": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   },
   "editor.defaultFormatter": "ms-vscode.cpptools"
 }
